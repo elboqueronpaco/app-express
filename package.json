@@ -1,0 +1,13 @@
+{
+  "name": "app-express",
+  "version": "1.0.0",
+  "description": "creando una app con express",
+  "main": "index.js",
+  "repository": "git@github.com:elboqueronpaco/app-express.git",
+  "author": "elboqueronpaco <elboqueronpaco@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
